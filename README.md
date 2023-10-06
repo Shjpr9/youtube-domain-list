@@ -1,1 +1,1 @@
-geosite:yt-ads
+`geosite:yt-ads`
